@@ -1,0 +1,40 @@
+      html, body, #map {
+        height: 100%;
+        margin: 0px;
+        padding: 0px
+      }
+#map{
+
+	height:1000px;
+	width:1000px;
+
+}
+
+.container{
+	
+	position:realtive;
+	top:150px;
+	margin-left:50px;
+	margin-right:50px;
+
+}
+.companyListing{
+
+	float:left;
+	//background-color:#e5e5e5;
+	border-radius:5px;
+	position:relative;
+	padding:5px!important;
+
+}
+
+.graph{
+
+	float:right;
+	background-color:#e5e5e5;
+	border-radius:5px;
+	padding:10px;
+	position:relative;
+	right:665px;
+
+}
